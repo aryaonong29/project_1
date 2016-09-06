@@ -2,8 +2,8 @@
 // Initialize variables to nullzzzz.
 $nameError ="kkkkkk";
 $emailError ="";
-$genderError ="";
-$websiteError ="";
+$genderError ="2";
+$websiteError ="3";
 // On submitting form below function will execute.
 if(isset($_POST['submit'])){
 if (empty($_POST["name"])) {
