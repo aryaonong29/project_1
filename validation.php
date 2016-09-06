@@ -13,7 +13,7 @@
 </div>
 <form action="validation.php" method="post">
 <h2>Form</h2>
-<span class="error">* required field.</span>
+<span class="erro22r">*222 required field.</span>
 Name:
 <input class="input" name="name" type="text" value="">
 <span class="error">* <?php echo $nameError;?></span>
