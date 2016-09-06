@@ -1,6 +1,6 @@
 <?php
-// Initialize variables to null.
-$nameError ="";
+// Initialize variables to nullzzzz.
+$nameError ="kkkkkk";
 $emailError ="";
 $genderError ="";
 $websiteError ="";
