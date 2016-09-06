@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Form Validation with PHP - Demo Preview</title>
+<title>ggggForm Validation with PHP - Demo Preview</title>
 <meta content="noindex, nofollow" name="robots">
 <link href="style.css" rel="stylesheet">
 </head>
